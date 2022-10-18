@@ -1,0 +1,7 @@
+Building image:
+---------------
+docker build -t dockerfile .
+
+Running Container:
+-----------------
+docker run -it --rm --name Conpy123 dockerfile
